@@ -4,3 +4,4 @@ Nama
 TTL
 Fakultas
 Program Studi
+Jadwal SKS
