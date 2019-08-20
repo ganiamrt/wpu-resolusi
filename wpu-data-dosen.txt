@@ -1,0 +1,7 @@
+Format data Dosen:
+
+Nama 
+TTL
+Fakultas
+Program Studi
+Jadwal SKS
